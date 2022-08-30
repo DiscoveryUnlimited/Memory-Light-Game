@@ -14,7 +14,7 @@
     justify-content: center;
   }
 
-  .light-container {
+  .lightbox-container {
     display: flex;
     border: 5px solid black;
     height: 800px;
